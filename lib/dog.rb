@@ -5,7 +5,4 @@ def initialize(name, breed)
   @breed = breed
 end
 
-def breed
-  @breed
-end
-end   
+lassie = Dog.new("Mutt") 
